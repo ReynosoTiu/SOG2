@@ -1,0 +1,13 @@
+order_id,purchase_date,customer_id,customer_gender,customer_age,product_category,product_name,product_price,quantity,order_total,payment_method,shipping_region
+96,8/12/23,822,Masculino,18,Accesorios,Bolso,90.72,3,272.16,PayPal,Oeste
+142,3/09/23,139,Femenino,18,Ropa,Pantalón,131.68,3,395.04,PayPal,Oeste
+216,24/08/23,86,Masculino,18,Calzado,Zapatillas,36.18,1,36.18,Transferencia bancaria,Este
+235,15/03/23,473,Masculino,18,Ropa,Vestido,78.55,5,392.75,Transferencia bancaria,Centro
+284,24/04/23,113,Masculino,18,Calzado,Sandalias,116.37,1,116.37,Tarjeta de crédito,Norte
+313,15/07/23,837,Masculino,18,Accesorios,Reloj,133.15,3,399.45,Tarjeta de crédito,Oeste
+406,12/02/23,896,Femenino,18,Accesorios,Bufanda,112.24,1,112.24,Efectivo,Centro
+453,30/10/23,879,Femenino,18,Accesorios,Gorro,152.49,3,457.47,Transferencia bancaria,Norte
+574,22/12/23,993,Femenino,18,Calzado,Botas,54.74,4,218.96,PayPal,Centro
+774,21/09/23,873,Femenino,18,Calzado,Sandalias,95.74,4,382.96,Tarjeta de crédito,Centro
+831,11/04/23,843,Femenino,18,Ropa,Sweater,170.94,3,512.82,Transferencia bancaria,Sur
+943,12/01/23,259,Masculino,18,Accesorios,Cinturón,87.52,1,87.52,Tarjeta de crédito,Norte
